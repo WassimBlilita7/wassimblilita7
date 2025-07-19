@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfolioo-gctj.onrender.com](https://portfolioo-gctj.onrender.com)
+- 👨‍💻 All of my projects are available at [https://portfolioo-gctj.onrender.com](https://wassimblilita.netlify.app)
 
 - 💬 Ask me about **Web & Mobile developement**
 
